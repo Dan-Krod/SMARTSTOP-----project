@@ -1,5 +1,5 @@
 # 🚴‍♂️ SMARTSTOP 
-## Prototype 1:- Basic Obstacle Detection & Alert System
+## Prototype 1: Basic Obstacle Detection & Alert System
 
 SMARTSTOP is an innovative system designed to improve the safety of electric scooter riders through real-time obstacle detection and alerts. This prototype integrates **ultrasonic distance sensors** and **obstacle detection sensors** to assess the proximity of nearby objects. When an obstacle is detected, the system provides immediate feedback to the rider via **LED indicators**, an **audible buzzer alert**, and an **LCD display showing the distance to the object**.
 
